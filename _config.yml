@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Hei Ting (Una) Chan"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Hei Ting (Una) Chan"
 description              : &description "PhD student, CSE @ UMich"
 url                      : https://unachanht.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,10 +25,10 @@ author:
   avatar           : "profile.png"
   name             : "Una Chan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "PhD student, CSE @ UMich"
+  location         : "Ann Arbor"
   employer         : "University of Michigan - Ann Arbor"
-  uri              : # URL
+  uri              : ""# URL
   email            : "hei@umich.edu" 
 
   # Academic websites
