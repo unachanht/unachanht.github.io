@@ -25,16 +25,16 @@ author:
   avatar           : "profile.png"
   name             : "Una Chan"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student, CSE @ UMich"
-  location         : "Ann Arbor"
+  bio              : "PhD student at University of Michigan"
+  location         : "Ann Arbor, MI"
   employer         : "University of Michigan - Ann Arbor"
   uri              : ""# URL
-  email            : "hei@umich.edu" 
+  email            : "hei@umich.edu"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # URL
+  googlescholar    : "https://scholar.google.com/schhp?hl=en&as_sdt=0,23"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # URL
@@ -62,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "una-chan-771659232"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
