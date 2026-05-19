@@ -25,11 +25,11 @@ My research sits at the intersection of **network systems** and **machine learni
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1em; margin: 1.5em 0;">
   <div style="border: 1px solid #e5e5e5; border-radius: 8px; padding: 1em;">
     <h3 style="margin-top: 0;">⚙️ ML Systems Efficiency</h3>
-    <p style="margin-bottom: 0;">Making large multimodal models cheaper and faster to serve — e.g., speculative decoding for multimodal models.</p>
+    <p style="margin-bottom: 0;">Making large multimodal models cheaper and faster to serve.</p>
   </div>
   <div style="border: 1px solid #e5e5e5; border-radius: 8px; padding: 1em;">
     <h3 style="margin-top: 0;">🏥 Medical AI</h3>
-    <p style="margin-bottom: 0;">Cloud–edge ML systems for clinical screening in resource-constrained rural settings.</p>
+    <p style="margin-bottom: 0;">ML systems for clinical screening in rural settings.</p>
   </div>
 </div>
 
