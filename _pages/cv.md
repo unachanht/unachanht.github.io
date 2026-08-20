@@ -20,9 +20,9 @@ Education
 
 Publications
 ======
-* **A Cloud–Edge System for Multimodal Clinical Screening in Resource-Constrained Rural Settings.**
+* **[A Cloud–Edge System for Multimodal Clinical Screening in Resource-Constrained Rural Settings](https://arxiv.org/abs/2608.12745).**
   <u>Chan, H.T.</u>, Wu, C., Liu, X., Zhao, Z., Zheng, B., Mao, Z., Nakayama, L.F., Morley, M.G., Shen, L., & Chen, J. (2026). *Submitted to Machine Learning for Healthcare (MLHC) 2026.* [First author; Under Review.]
-* **Speculative Decoding for Multimodal Models: A Survey.**
+* **[Speculative Decoding for Multimodal Models: A Survey](https://www.preprints.org/manuscript/202603.2344).**
   Zhang, Y., Wang, Y., Hsieh, Y., Wang, X., Zhang, P., Yang, Z., Ma, J., Zhao, Z., Zheng, B., <u>Chan, H.T.</u>, Li, J., Liu, X., Gao, K., Liu, R., Zhang, J., Li, J., Wan, Z., Zhang, Z., Xiong, J., Zhu, S., Cao, H., & Shen, H. (2026). *Preprint; target venue: Transactions on Machine Learning Research (TMLR).* [Under Review.]
 
 Research Experience
