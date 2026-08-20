@@ -9,7 +9,7 @@ paperurl: 'https://arxiv.org/abs/2608.12745'
 venue: 'Machine Learning for Healthcare (MLHC) 2026'
 ---
 
-**Chan, H.T.**, Wu, C., Liu, X., Zhao, Z., Zheng, B., Mao, Z., Nakayama, L.F., Morley, M.G., Shen, L., & Chen, J. — *Machine Learning for Healthcare (MLHC) 2026.* [First author; Accepted.]
+**Hei Ting (Una) Chan**, Chenwei Wu, Xueshen Liu, Zesen Zhao, Boyuan Zheng, Luis Filipe Nakayama, Michael G. Morley, Liyue Shen, Jiasi Chen, & Z. Morley Mao — *Machine Learning for Healthcare (MLHC) 2026.* [First author; Accepted.]
 
 ## Abstract
 

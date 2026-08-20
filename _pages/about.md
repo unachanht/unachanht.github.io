@@ -40,13 +40,13 @@ Before Michigan, I earned my B.S. in Computer Science and Data Science at the **
 ## Publications
 
 **[A Cloud–Edge System for Multimodal Clinical Screening in Resource-Constrained Rural Settings](https://arxiv.org/abs/2608.12745)** \\
-<u>Hei Tung Chan</u>, C. Wu, X. Liu, Z. Zhao, B. Zheng, Z. Mao, L.F. Nakayama, M.G. Morley, L. Shen, & J. Chen \\
+<u>Hei Ting (Una) Chan</u>, Chenwei Wu, Xueshen Liu, Zesen Zhao, Boyuan Zheng, Luis Filipe Nakayama, Michael G. Morley, Liyue Shen, Jiasi Chen, & Z. Morley Mao \\
 *Accepted to Machine Learning for Healthcare (MLHC) 2026.* 🎉
 
 My first-author paper was accepted to **MLHC 2026**. It asks a practical question: how do you deliver specialist-level medical AI where bandwidth is scarce and compute is limited? We pair lightweight, domain-specific models on the edge — which turn raw medical data into compact structured outputs — with a cloud LLM that synthesizes them into clinical summaries, and an LLM orchestrator that picks diagnostic tools based on patient context. Across 20 multimodal cases (cardiac, obstetric, trauma, screening) and network profiles from 500 kbps to 5 Mbps, the hybrid system reaches 98–99% diagnostic tool recall at 92–96% precision, matches or beats cloud-only baselines on clinical accuracy, and holds latency flat at 25–35 s with 4–15x lower token cost.
 
 **[Speculative Decoding for Multimodal Models: A Survey](https://www.preprints.org/manuscript/202603.2344)** \\
-Y. Zhang, Y. Wang, Y. Hsieh, et al., including <u>Hei Tung Chan</u> \\
+Y. Zhang, Y. Wang, Y. Hsieh, et al., including <u>Hei Ting (Una) Chan</u> \\
 *Preprint; target venue: TMLR. Under review.*
 
 [See all publications →](/publications/)
